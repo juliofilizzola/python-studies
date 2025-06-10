@@ -31,10 +31,3 @@ A estrutura do repositório é organizada da seguinte forma:
 - `projetos/`: Projetos práticos para aplicar os conhecimentos adquiridos.
 
 Sinta-se à vontade para explorar e contribuir para qualquer uma dessas seções.
-
-## Instalação
-
-Para começar a estudar, você pode clonar este repositório usando o seguinte comando:
-
-```bash
-git clone git@gitlab.com:juliofilizzola/python-studies.git
